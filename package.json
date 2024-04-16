@@ -1,0 +1,20 @@
+{
+	"name": "com.giangnt.test",
+	"version": "1.0.0",
+	"displayName": "Package Test",
+	"description": "This is an example package",
+	"unity": "2020.3",
+	"unityRelease": "0b5",
+	"documentationUrl": "https://example.com/",
+	"changelogUrl": "https://example.com/changelog.html",
+	"licensesUrl": "https://example.com/licensing.html",
+	"dependencies": {
+   },
+   "keywords": [
+	],
+	"author": {
+	  "name": "giangnt",
+	  "email": "nguyengiangll7586@gmail.com",
+	  "url": "https://www.unity3d.com"
+	}
+  }
